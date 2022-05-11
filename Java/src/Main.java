@@ -1,32 +1,37 @@
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Random;
+
+import java.awt.Color;
+import java.awt.Font;
+import java.util.InputMismatchException;
 import java.util.Scanner;
-import java.util.TreeMap;
+
+import javax.swing.ImageIcon;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JMenu;
+import javax.swing.JPanel;
 
 class Main {
 
 	public static void main(String[] args) {
-		TreeMap<String, Double> diccionario = new TreeMap<String, Double>();
-		Random r = new Random();
-		for (int i = 0; i < 8; i++) {
-			int num = 0;
-			while (true) {
-				num = r.nextInt(100);
-				if (num < 40) {
-					continue;
-				} else {
-					break;
-				}
+		while (true) {
+			try {
+				Scanner lector = new Scanner(System.in);
+				int num1 = lector.nextInt();
+				int num2 = lector.nextInt();
+				int res = num1 / num2;
+				System.out.println(res);
+				break;
+			} catch (ArithmeticException e) {
+				System.out.println("Se ha realizado una division entre cero");
+				System.out.println(e.getMessage());
+			}catch (InputMismatchException f) {
+				System.out.println("El numero insertado no es valido");
+				f.printStackTrace();
+			}catch (Exception e) {
+				System.out.println("error desconocido");
 			}
-			diccionario.put((char) num + "", r.nextGaussian());
 		}
 
-		diccionario.forEach((clave, valorasociado) -> {
-			System.out.println(clave + "->" + valorasociado);
-		});
-		for (String o : diccionario.keySet()) {
-			System.out.println(o+"->"+diccionario.get(o));
-		}
 	}
 }
