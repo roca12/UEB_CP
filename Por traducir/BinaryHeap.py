@@ -60,4 +60,3 @@ print heapObj.getMin(),
 heapObj.decreaseKey(2, 1) 
 print heapObj.getMin() 
 
-# This code is contributed by Nikhil Kumar Singh(nickzuck_007) 
