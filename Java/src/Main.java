@@ -1,37 +1,47 @@
+import java.util.*;
 
-import java.awt.Color;
-import java.awt.Font;
-import java.util.InputMismatchException;
-import java.util.Scanner;
-
-import javax.swing.ImageIcon;
-import javax.swing.JButton;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JMenu;
-import javax.swing.JPanel;
-
-class Main {
+public class Main {
 
 	public static void main(String[] args) {
-		while (true) {
-			try {
-				Scanner lector = new Scanner(System.in);
-				int num1 = lector.nextInt();
-				int num2 = lector.nextInt();
-				int res = num1 / num2;
-				System.out.println(res);
-				break;
-			} catch (ArithmeticException e) {
-				System.out.println("Se ha realizado una division entre cero");
-				System.out.println(e.getMessage());
-			}catch (InputMismatchException f) {
-				System.out.println("El numero insertado no es valido");
-				f.printStackTrace();
-			}catch (Exception e) {
-				System.out.println("error desconocido");
-			}
-		}
+		Scanner sc = new Scanner(System.in);
+		int n = sc.nextInt();
+		int m = sc.nextInt();
+		while (n != 0 && m != 0) {
+			int[] caballeros = new int[m];
+			int[] cabezas = new int[n];
+			int[] copia = new int[n];
 
+			int pago = 0;
+			for (int i = 0; i < cabezas.length; i++) {
+				cabezas[i] = sc.nextInt();
+				copia[i] = 0;
+			}
+			for (int i = 0; i < caballeros.length; i++) {
+				caballeros[i] = sc.nextInt();
+			}
+
+			Arrays.sort(caballeros);
+			Arrays.sort(cabezas);
+			int ix = 0, jx = 0;
+			while (ix < caballeros.length && jx < cabezas.length) {
+				if (caballeros[ix] >= cabezas[jx]) {
+					pago += caballeros[ix];
+					cabezas[jx] = 0;
+					caballeros[ix]=Integer.MIN_VALUE;
+					ix=0;
+					jx++;
+				} else {
+					ix++;
+				}
+			}
+			if (Arrays.equals(cabezas, copia)) {
+				System.out.println(pago);
+			} else {
+				System.out.println("Loowater is doomed!");
+			}
+
+			n = sc.nextInt();
+			m = sc.nextInt();
+		}
 	}
 }
