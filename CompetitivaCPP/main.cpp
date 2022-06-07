@@ -1,93 +1,92 @@
-// C++ code to implement the approach
 
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
+
 using namespace std;
 
-// Function to count different empty cells
-// he can pass through while avoiding
-// the obstacles
-int numberOfCells(int n, int m, int r,
-				  int c, int u, int d,
-				  vector<vector<char> >& mat)
+const int maxn=1e3+50;
+const int maxm=1e3+50;
+const int inf=0x3f3f3f3f;
+int movimientos[][2]={{0,1},{1,0},{0,-1},{-1,0}};
+
+char laberinto[maxn][maxm];
+
+struct node{
+	int x,y,s,b;
+	node(){}
+	node(int _x,int _y,int _s,int _b):x(_x),y(_y),s(_s),b(_b){}
+};
+
+int paso[maxn][maxm];
+bool visitado[maxn][maxm];
+int n,m;
+
+bool safe(int x,int y)
 {
-	// If cell having Obstacle
-	if (mat[r] == '#')
-		return 0;
-	
-	queue<vector<int> > que;
-	int cnt = 0;
-	int i = 0;
-	int j = 0;
-	
-	mat[r] = '#';
-	que.push({ r, c, u, d });
-	
-	// BFS traversal of the matrix
-	while (que.size()) {
-		auto& f = que.front();
-		int rr = f[0];
-		int cc = f[1];
-		int uu = f[2];
-		int dd = f[3];
-		que.pop();
-		
-		++cnt;
-		
-		// Move left
-		i = rr;
-		j = cc - 1;
-		if (0 <= j && mat[i][j] == '.') {
-			
-			// Mark the cell visited
-			mat[i][j] = '#';
-			que.push({ i, j, uu, dd });
-		}
-		
-		// Move right
-		i = rr;
-		j = cc + 1;
-		if (j < m && mat[i][j] == '.') {
-			
-			// Mark the cell visited
-			mat[i][j] = '#';
-			que.push({ i, j, uu, dd });
-		}
-		
-		// Move up
-		i = rr - 1;
-		j = cc;
-		if (0 <= i && mat[i][j] == '.' && uu) {
-			
-			// Mark the cell visited
-			mat[i][j] = '#';
-			que.push({ i, j, uu - 1, dd });
-		}
-		
-		// Move down
-		i = rr + 1;
-		j = cc;
-		if (i < n && mat[i][j] == '.' && dd) {
-			
-			// Mark the cell visited
-			mat[i][j] = '#';
-			que.push({ i, j, uu, dd - 1 });
-		}
+	if(!visitado[x][y]&&x>=0&&y>=0&&x<n&&y<m&&laberinto[x][y]!='#'){
+		return true;
 	}
-	
-	// Return the count
-	return cnt;
+	return false;
 }
 
-// Driver code
+void bfs()
+{
+	node temp,chu;
+	memset(visitado,false,sizeof(visitado));
+	memset(paso,inf,sizeof(paso));
+	queue<node>q;
+	for(int i=0;i<n;i++){
+		for(int j=0;j<m;j++){
+			if(laberinto[i][j]=='F'){
+				temp.x=i;temp.y=j;
+				temp.s=0;temp.b=1;
+				q.push(temp);
+			}else if(laberinto[i][j]=='J'){
+				chu.x=i;chu.y=j;
+				chu.s=0;chu.b=0;
+			}
+		}
+	}
+	q.push(chu);
+	paso[chu.x][chu.y]=0;
+	while(!q.empty()){
+		node u=q.front();
+		q.pop();
+		if(!u.b){
+			if(u.x==0||u.x==n-1||u.y==0||u.y==m-1){
+				printf("%d\n",u.s+1);
+				return;
+			}
+		}
+		for(int i=0;i<4;i++){
+			temp.x=u.x+movimientos[i][0];temp.y=u.y+movimientos[i][1];
+			temp.s=u.s+1;temp.b=u.b;
+			if(safe(temp.x,temp.y)){
+				if(temp.b){
+					visitado[temp.x][temp.y]=1;
+					laberinto[temp.x][temp.y]='F';
+					q.push(temp);
+				}else{
+					if(laberinto[temp.x][temp.y]=='.'&&paso[temp.x][temp.y]>paso[u.x][u.y]+1){
+						paso[temp.x][temp.y]=paso[u.x][u.y]+1;
+						q.push(temp);
+					}
+				}
+			}
+		}
+	}
+	printf("IMPOSSIBLE\n");
+}
+
 int main()
 {
-	int N = 3, M = 3, R = 1, C = 0;
-	int U = 1, D = 1;
-	vector<vector<char> > mat = { { '.', '.', '.' },
-	{ '.', '#', '.' },
-	{ '#', '.', '.' } };
-	
-	// Function call
-	cout << numberOfCells(N, M, R, C, U, D, mat);
+	int t;
+	scanf("%d",&t);
+	for(int i=0;i<t;i++){
+		scanf("%d%d",&n,&m);
+		for(int i=0;i<n;i++){
+			scanf("%s",laberinto[i]);
+		}
+		bfs();
+	}
 	return 0;
 }
