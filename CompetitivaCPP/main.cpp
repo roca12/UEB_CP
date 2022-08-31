@@ -2,10 +2,16 @@
 using namespace std;
 
 int main(){
-	int numero;
-	cin>>numero;
-	while(numero>0){
-		cout<<numero<<endl;
-		cin>>numero;
+	vector<vector<string>> listas (10, vector<string>(10, "a"));
+	for (int i = 0; i < 10; i++) {
+		//lista.push_back(rand()%100);
+		lista.emplace_back(rand()%100);
 	}
+	
+	for (int i = 0; i < lista.size(); i++) {
+		cout<<lista.at(i)<<endl;
+	}
+	
+	
+	
 }
