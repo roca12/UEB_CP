@@ -34,26 +34,35 @@ Algoritmos y ejercicios resueltos de programación competitiva que han sido real
 
 
 # Contenido
-- [Codigos de estudiantes](#codigos-de-estudiantes)
+- [Introducción](#introducción)
+- [Libros e ilustraciones](#libros-e-ilustraciones)
+- [Soluciones de jueces en linea](#soluciones-de-jueces-en-linea)
+- [Templates y codigos curiosos](#templates-y-codigos-curiosos)
 - [Medidor de lenguajes](#medidor-de-lenguajes)
 - [Acerca del propietario](#acerca-del-propietario)
+- [Repositorios similares](#repositorios-similares)
+- [Contribuidores](#contribuidores)
 
-# Codigos de estudiantes
+# Introducción
 
-Contiene los archivos de cada estudiante competidor conteniendo los algoritmos que han sido explicados en entrenamiento en los tres lenguajes principales.
+# Libros e ilustraciones
+
+# Soluciones de jueces en linea
+
+# Templates y codigos curiosos
 
 # Medidor de lenguajes
 [![Uso de lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=roca12)](https://github.com/roca12/UEB_CP)
 
 # Acerca del propietario
-Administrado por Diego Rodriguez
+Administrado por GPC-UEB (intro, intermedia y avanzada)
 Universidad El Bosque, Bogotá - Colombia
 
-## Repositorios similares
-[![Repositorios similares](https://github-readme-stats.vercel.app/api/pin/?username=roca12&repo=UEB_CP)](https://github.com/roca12/UEB_CP)
+# Repositorios similares
+[![Repositorios similares](https://github-readme-stats.vercel.app/api/pin/?username=roca12&repo=UEB_CP)](https://github.com/roca12/gpccodes)
 
 
-## Contribuyentes
+# Contribuidores
 [![roca12 github stats](https://github-readme-stats.vercel.app/api?username=roca12&show_icons=true&hide=stars,issues&theme=darcula)](https://github.com/roca12/gUEB_CP)
 [![edanv1401 github stats](https://github-readme-stats.vercel.app/api?username=edanv1401&show_icons=true&theme=midnight-purple&hide=stars,issues)](https://github.com/roca12/gUEB_CP)
 
