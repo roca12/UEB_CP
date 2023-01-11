@@ -3,8 +3,8 @@
 
 <p align="center">
  <img width="100px" src="https://www.iconsdb.com/icons/preview/royal-blue/code-xxl.png" align="center"  />
- <h2 align="center">Repositorio Git Grupo de programación competitiva UNIECCI</h2>
- <p align="center">Universidad ECCI</p>
+ <h2 align="center">Repositorio Git Grupo de programación competitiva UNBOSQUE</h2>
+ <p align="center">Universidad El Bosque</p>
 </p>
   <p align="center">
     <a href="https://github.com/roca12/UEB_CP/issues">
