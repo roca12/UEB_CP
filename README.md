@@ -35,7 +35,9 @@ Algoritmos y ejercicios resueltos de programación competitiva que han sido real
 
 # Contenido
 - [Introducción](#introducción)
+- [Codigos por competidor](#codigos-por-competidor)
 - [Libros e ilustraciones](#libros-e-ilustraciones)
+- [Resueltos por competidor](#Resueltos-por-competidor)
 - [Soluciones de jueces en linea](#soluciones-de-jueces-en-linea)
 - [Templates y codigos curiosos](#templates-y-codigos-curiosos)
 - [Medidor de lenguajes](#medidor-de-lenguajes)
@@ -45,7 +47,11 @@ Algoritmos y ejercicios resueltos de programación competitiva que han sido real
 
 # Introducción
 
+# Codigos por competidor
+
 # Libros e ilustraciones
+
+# Resueltos por competidor
 
 # Soluciones de jueces en linea
 

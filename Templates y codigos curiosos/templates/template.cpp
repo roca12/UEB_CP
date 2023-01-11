@@ -3,8 +3,13 @@
 #define all(x) x.begin(),x.end()
 #define sz(x) x.size()
 #define forn(i, n) for(int i = 0; i < int(n); i++)
+#define ld __float128
+#define me(a, x) memset(a, x, sizeof(a))
 
 using namespace std;
+
+typedef long long int ll;
+typedef pair<ll, ll> pii;
 
 template <class A, class B> ostream& operator << (ostream& out, const pair<A, B> &a) {
 	return out << "(" << a.x << ", " << a.y << ")";
