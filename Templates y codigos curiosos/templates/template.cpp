@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
 #include<cstdlib>
+#define x first
+#define y second
 #define all(x) x.begin(),x.end()
 #define sz(x) x.size()
 #define forn(i, n) for(int i = 0; i < int(n); i++)
@@ -9,7 +11,7 @@
 using namespace std;
 
 typedef long long int ll;
-typedef pair<ll, ll> pii;
+typedef pair<ll, ll> pll;
 
 template <class A, class B> ostream& operator << (ostream& out, const pair<A, B> &a) {
 	return out << "(" << a.x << ", " << a.y << ")";
