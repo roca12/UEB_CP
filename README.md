@@ -35,11 +35,11 @@ Algoritmos y ejercicios resueltos de programación competitiva que han sido real
 
 # Contenido
 - [Introducción](#introducción)
-- [Codigos por competidor](#codigos-por-competidor)
+- [Códigos por competidor](#codigos-por-competidor)
 - [Libros e ilustraciones](#libros-e-ilustraciones)
 - [Resueltos por competidor](#Resueltos-por-competidor)
-- [Soluciones de jueces en linea](#soluciones-de-jueces-en-linea)
-- [Templates y codigos curiosos](#templates-y-codigos-curiosos)
+- [Soluciones de jueces en línea](#soluciones-de-jueces-en-linea)
+- [Templates y códigos curiosos](#templates-y-codigos-curiosos)
 - [Medidor de lenguajes](#medidor-de-lenguajes)
 - [Acerca del propietario](#acerca-del-propietario)
 - [Repositorios similares](#repositorios-similares)
@@ -47,15 +47,27 @@ Algoritmos y ejercicios resueltos de programación competitiva que han sido real
 
 # Introducción
 
-# Codigos por competidor
+Repositorio almacenamiento, clasificación y evaluación de algoritmos realizados por los competidores de GPC-UEB
+
+Cada colaborador puede compartir ordenadamente sus algoritmos realizados, códigos en testeo, ejercicios realizados con cualquier veredicto, plantillas de código, material visual de ayuda, algoritmos nuevos para estudio, entre otros materiales.
+
+# Códigos por competidor
+
+Permite el almacenamiento y clasificación de los algoritmos y códigos en proceso de finalización, cada colaborador debe realizar una carpeta con su nombre, y dentro de esta carpeta cada uno puede organizar las carpetas que desee.
 
 # Libros e ilustraciones
 
+Contiene material audiovisual de apoyo utilizable en entrenamientos, competencias y eventos, si tienes algo que compartir eres libre de subirlo aqui.
+
 # Resueltos por competidor
 
-# Soluciones de jueces en linea
+Esta carpeta contiene todos los ejercicios con veredicto CORRECT o ACCEPTED que cada uno de los competidores ha realizado, se encuentran separados por carpetas, eres libre de subdividir en carpetas por competencia, juez online o evento.
 
-# Templates y codigos curiosos
+# Soluciones de jueces en línea
+
+
+
+# Templates y códigos curiosos
 
 # Medidor de lenguajes
 [![Uso de lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=roca12)](https://github.com/roca12/UEB_CP)
