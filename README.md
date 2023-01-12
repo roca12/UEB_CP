@@ -65,9 +65,11 @@ Esta carpeta contiene todos los ejercicios con veredicto CORRECT o ACCEPTED que 
 
 # Soluciones de jueces en línea
 
-
+Contiene soluciones de multiples jueces online y competencias ya pasadas, se utilizan como ultimo recurso en caso de no entender un ejercicio o no poder lograr un veredicto correcto.
 
 # Templates y códigos curiosos
+
+Utilizada para almacenar plantillas de inicio de codificación y codigos recientemente decubiertos que tienen potencial futuro de uso dentro de las diferentes competencias, si encuentras algo que deseas que se analice y verifique, colocalo aqui.
 
 # Medidor de lenguajes
 [![Uso de lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=roca12)](https://github.com/roca12/UEB_CP)
