@@ -83,6 +83,7 @@ Universidad El Bosque, Bogotá - Colombia
 
 
 # Contribuidores
+[![GitHub Streak](https://streak-stats.demolab.com/?user=roca12&theme=java-dark&locale=es)](https://git.io/streak-stats)
 [![roca12 github stats](https://github-readme-stats.vercel.app/api?username=roca12&show_icons=true&hide=stars,issues&theme=darcula)](https://github.com/roca12/gUEB_CP)
 [![edanv1401 github stats](https://github-readme-stats.vercel.app/api?username=edanv1401&show_icons=true&theme=midnight-purple&hide=stars,issues)](https://github.com/roca12/gUEB_CP)
 
