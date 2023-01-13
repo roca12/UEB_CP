@@ -35,11 +35,11 @@ Algoritmos y ejercicios resueltos de programación competitiva que han sido real
 
 # Contenido
 - [Introducción](#introducción)
-- [Códigos por competidor](#codigos-por-competidor)
+- [Códigos por competidor](#códigos-por-competidor)
 - [Libros e ilustraciones](#libros-e-ilustraciones)
-- [Resueltos por competidor](#Resueltos-por-competidor)
-- [Soluciones de jueces en línea](#soluciones-de-jueces-en-linea)
-- [Templates y códigos curiosos](#templates-y-codigos-curiosos)
+- [Resueltos por competidor](#resueltos-por-competidor)
+- [Soluciones de jueces en línea](#soluciones-de-jueces-en-línea)
+- [Templates y códigos curiosos](#templates-y-códigos-curiosos)
 - [Medidor de lenguajes](#medidor-de-lenguajes)
 - [Acerca del propietario](#acerca-del-propietario)
 - [Repositorios similares](#repositorios-similares)
@@ -83,6 +83,10 @@ Universidad El Bosque, Bogotá - Colombia
 
 
 # Contribuidores
-Diego Rodriguez
-[![Diego Rodriguez @roca12](https://streak-stats.demolab.com/?user=roca12&theme=java-dark&locale=es)](https://git.io/streak-stats)
+## Diego Rodriguez
+[![](https://streak-stats.demolab.com/?user=roca12&theme=java-dark&locale=es)](https://git.io/streak-stats)
+## Edwin Villaraga
+[![](https://streak-stats.demolab.com/?user=edanv&theme=dracula&locale=es)](https://git.io/streak-stats)
+## William Castillo
+[![](https://streak-stats.demolab.com/?user=PORTAMELO&theme=python-dark&locale=es)](https://git.io/streak-stats)
 
