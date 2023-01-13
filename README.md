@@ -83,5 +83,6 @@ Universidad El Bosque, Bogotá - Colombia
 
 
 # Contribuidores
+Diego Rodriguez
 [![Diego Rodriguez @roca12](https://streak-stats.demolab.com/?user=roca12&theme=java-dark&locale=es)](https://git.io/streak-stats)
 
