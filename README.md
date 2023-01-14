@@ -76,7 +76,8 @@ Administrado por GPC-UEB (intro, intermedia y avanzada)
 Universidad El Bosque, Bogotá - Colombia
 
 # Repositorios similares
-[![Repositorios similares](https://github-readme-stats.vercel.app/api/pin/?username=roca12&repo=gpccodes&show_owner=true)](https://github.com/roca12/gpccodes)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=roca12&repo=gpccodes&show_owner=true)](https://github.com/roca12/gpccodes)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ahoraSoyPeor&repo=notebook_descomUNAL&show_owner=true)](https://github.com/ahoraSoyPeor/notebook_descomUNAL)
 
 
 # Contribuidores
