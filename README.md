@@ -87,9 +87,12 @@ Universidad El Bosque, Bogotá - Colombia
 ## Edwin Villaraga
 [![](https://streak-stats.demolab.com/?user=edanv1401&theme=dracula&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=edanv1401&layout=compact&&langs_count=10)](https://github.com/edanv1401)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="edanv1401's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=edanv1401&theme=dracula" style="width=200"/></a>
 ## William Castillo
 [![](https://streak-stats.demolab.com/?user=PORTAMELO&theme=midnight-purple&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=PORTAMELO&layout=compact&&langs_count=10)](https://github.com/PORTAMELO)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="PORTAMELO's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=PORTAMELO&theme=nightowl" style="width=200"/></a>
 ## Samuel Mesa
 [![](https://streak-stats.demolab.com/?user=JUSTSAM3&theme=windows-dark&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=JUSTSAM3&layout=compact&&langs_count=10)](https://github.com/JUSTSAM3)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JUSTSAM3's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=JUSTSAM3&theme=github-dark" style="width=200"/></a>
