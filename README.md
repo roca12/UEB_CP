@@ -84,7 +84,10 @@ Universidad El Bosque, Bogotá - Colombia
 
 # Contribuidores
 ## Diego Rodriguez
-[![](https://streak-stats.demolab.com/?user=roca12&theme=java-dark&locale=es)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com/?user=roca12&theme=java-dark&locale=es)](https://github.com/roca12)
+[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=roca12&labels=true&width=250)](https://profile.codersrank.io/user/roca12)
+
+
 ## Edwin Villaraga
 [![](https://streak-stats.demolab.com/?user=edanv&theme=dracula&locale=es)](https://git.io/streak-stats)
 ## William Castillo
