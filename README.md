@@ -85,8 +85,8 @@ Universidad El Bosque, Bogotá - Colombia
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=roca12&layout=compact&&langs_count=10)](https://github.com/roca12)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="roca12's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=roca12&theme=elegant" style="width=200"/></a>
 ## Edwin Villaraga
-[![](https://streak-stats.demolab.com/?user=edanv&theme=dracula&locale=es)](https://git.io/streak-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=edanv&layout=compact&&langs_count=10)](https://github.com/edanv)
+[![](https://streak-stats.demolab.com/?user=edanv1401&theme=dracula&locale=es)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=edanv1401&layout=compact&&langs_count=10)](https://github.com/edanv1401)
 ## William Castillo
 [![](https://streak-stats.demolab.com/?user=PORTAMELO&theme=midnight-purple&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=PORTAMELO&layout=compact&&langs_count=10)](https://github.com/PORTAMELO)
