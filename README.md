@@ -78,6 +78,7 @@ Universidad El Bosque, Bogotá - Colombia
 # Repositorios similares
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roca12&repo=gpccodes&show_owner=true)](https://github.com/roca12/gpccodes)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=ahoraSoyPeor&repo=notebook_descomUNAL&show_owner=true)](https://github.com/ahoraSoyPeor/notebook_descomUNAL)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=mhunicken&repo=icpc-team-notebook-el-vasito&show_owner=true)](https://github.com/mhunicken/icpc-team-notebook-el-vasito)
 
 
 # Contribuidores
