@@ -41,7 +41,6 @@ Algoritmos y ejercicios resueltos de programación competitiva que han sido real
 - [Resueltos por competidor](#resueltos-por-competidor)
 - [Soluciones de jueces en línea](#soluciones-de-jueces-en-línea)
 - [Templates y códigos curiosos](#templates-y-códigos-curiosos)
-- [Medidor de lenguajes](#medidor-de-lenguajes)
 - [Acerca del propietario](#acerca-del-propietario)
 - [Repositorios similares](#repositorios-similares)
 - [Contribuidores](#contribuidores)
@@ -72,25 +71,25 @@ Contiene soluciones de multiples jueces online y competencias ya pasadas, se uti
 
 Utilizada para almacenar plantillas de inicio de codificación y codigos recientemente decubiertos que tienen potencial futuro de uso dentro de las diferentes competencias, si encuentras algo que deseas que se analice y verifique, colocalo aqui.
 
-# Medidor de lenguajes
-[![Uso de lenguajes de programación](https://github-readme-stats.vercel.app/api/top-langs/?username=roca12)](https://github.com/roca12/UEB_CP)
-
 # Acerca del propietario
 Administrado por GPC-UEB (intro, intermedia y avanzada)
 Universidad El Bosque, Bogotá - Colombia
 
 # Repositorios similares
-[![Repositorios similares](https://github-readme-stats.vercel.app/api/pin/?username=roca12&repo=gpccodes)](https://github.com/roca12/gpccodes)
+[![Repositorios similares](https://github-readme-stats.vercel.app/api/pin/?username=roca12&repo=gpccodes&show_owner=true)](https://github.com/roca12/gpccodes)
 
 
 # Contribuidores
 ## Diego Rodriguez
 [![](https://streak-stats.demolab.com/?user=roca12&theme=java-dark&locale=es)](https://github.com/roca12)
-[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=roca12&labels=true&width=250)](https://profile.codersrank.io/user/roca12)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=roca12&layout=compact&&langs_count=10)](https://github.com/roca12)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="roca12's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=roca12&theme=elegant" style="width=200"/></a>
 ## Edwin Villaraga
 [![](https://streak-stats.demolab.com/?user=edanv&theme=dracula&locale=es)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=edanv&layout=compact&&langs_count=10)](https://github.com/edanv)
 ## William Castillo
 [![](https://streak-stats.demolab.com/?user=PORTAMELO&theme=midnight-purple&locale=es)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=PORTAMELO&layout=compact&&langs_count=10)](https://github.com/PORTAMELO)
 ## Samuel Mesa
 [![](https://streak-stats.demolab.com/?user=JUSTSAM3&theme=windows-dark&locale=es)](https://git.io/streak-stats)
-
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=JUSTSAM3&layout=compact&&langs_count=10)](https://github.com/JUSTSAM3)
