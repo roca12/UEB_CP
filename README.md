@@ -90,7 +90,7 @@ Universidad El Bosque, Bogotá - Colombia
 ## Edwin Villaraga
 [![](https://streak-stats.demolab.com/?user=edanv&theme=dracula&locale=es)](https://git.io/streak-stats)
 ## William Castillo
-[![](https://streak-stats.demolab.com/?user=PORTAMELO&theme=python-dark&locale=es)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com/?user=PORTAMELO&theme=midnight-purple&locale=es)](https://git.io/streak-stats)
 ## Samuel Mesa
 [![](https://streak-stats.demolab.com/?user=JUSTSAM3&theme=monokai&locale=es)](https://git.io/streak-stats)
 
