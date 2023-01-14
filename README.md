@@ -8,24 +8,25 @@
 </p>
   <p align="center">
     <a href="https://github.com/roca12/UEB_CP/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/roca12/UEB_CP?color=0088ff" />
+      <img alt="Issues" src="https://img.shields.io/github/issues/roca12/UEB_CP?color=0088ff&style=for-the-badge" />
     </a>
     <a href="https://github.com/roca12/UEB_CP/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/roca12/UEB_CP?color=0088ff" />
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/roca12/UEB_CP?color=0088ff&style=for-the-badge" />
     </a>
     <br />
   </p>
    <p align="center">
-      <img  src="https://img.shields.io/github/languages/count/roca12/UEB_CP?label=Lenguajes&color=yellow" />
-      <img  src="https://img.shields.io/github/repo-size/roca12/UEB_CP?color=important" />
-      <img  src="https://img.shields.io/github/last-commit/roca12/UEB_CP">
-      <img  src="https://img.shields.io/github/contributors/roca12/UEB_CP?color=blueviolet" />
+      <img  src="https://img.shields.io/github/languages/count/roca12/UEB_CP?label=Formatos&color=yellow&style=for-the-badge" />
+      <img  src="https://img.shields.io/github/repo-size/roca12/UEB_CP?color=important&style=for-the-badge" />
+      <img  src="https://img.shields.io/github/last-commit/roca12/UEB_CP?style=for-the-badge">
+      <img  src="https://img.shields.io/github/contributors/roca12/UEB_CP?color=blueviolet&style=for-the-badge" />
+      <img  src="https://img.shields.io/github/commit-activity/w/roca12/UEB_CP?style=for-the-badge" />
     <br />
   </p>
   <p align="center">
-      <img  src="https://img.shields.io/badge/Python-3.X-informational?style=flat&logo=python&logoColor=white&color=green" />
-      <img  src="https://img.shields.io/badge/C++-14-informational?style=flat&logo=c&logoColor=white&color=red" />
-      <img  src="https://img.shields.io/badge/Java-11-informational?style=flat&logo=java&logoColor=white&color=blue" />
+      <img  src="https://img.shields.io/badge/Python-3.X-informational?logo=python&logoColor=white&color=green&style=for-the-badge" />
+      <img  src="https://img.shields.io/badge/C++-14-informational?logo=c&logoColor=white&color=red&style=for-the-badge" />
+      <img  src="https://img.shields.io/badge/Java-11-informational?logo=java&logoColor=white&color=blue&style=for-the-badge" />
     <br />
   </p>
 </p>
