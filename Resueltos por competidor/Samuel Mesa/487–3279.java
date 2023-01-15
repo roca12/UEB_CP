@@ -5,7 +5,7 @@ import java.util.Iterator;
 import java.util.Scanner;
 import java.util.TreeMap;
 
-public class 487–3279 {
+public class Main {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
