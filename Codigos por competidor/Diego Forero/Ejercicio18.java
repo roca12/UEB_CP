@@ -1,7 +1,8 @@
-package Comp1;
+package Comp3;
+
 import java.util.Scanner;
 
-public class Ejercicio1 {
+public class Ejercicio18 {
 
 	public static void main(String[] args) {
 		
