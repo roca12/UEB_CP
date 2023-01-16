@@ -106,3 +106,8 @@ Universidad El Bosque, Bogotá - Colombia
 [![](https://streak-stats.demolab.com/?user=VirtualEagle04&theme=dark-smoky&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtualEagle04&layout=compact&&langs_count=10&theme=dark)](https://github.com/VirtualEagle04)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="VirtualEagle04's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=VirtualEagle04&theme=high-contrast" style="width=200"/></a>
+## Diego Forero
+[![](https://streak-stats.demolab.com/?user=DiegoF1311&theme=radical&locale=es)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoF1311&layout=compact&&langs_count=10&theme=dark)](https://github.com/DiegoF1311)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DiegoF1311's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DiegoF1311&theme=synthwave-84" style="width=200"/></a>
+DiegoF1311
