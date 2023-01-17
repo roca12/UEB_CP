@@ -110,4 +110,8 @@ Universidad El Bosque, Bogotá - Colombia
 [![](https://streak-stats.demolab.com/?user=DiegoF1311&theme=radical&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoF1311&layout=compact&&langs_count=10&theme=dark)](https://github.com/DiegoF1311)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DiegoF1311's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DiegoF1311&theme=synthwave-84" style="width=200"/></a>
+## Alejandra Valero
+[![](https://streak-stats.demolab.com/?user=ArekuInBlueee&theme=radical&locale=es)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArekuInBlueee&layout=compact&&langs_count=10&theme=dark)](https://github.com/ArekuInBlueee)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ArekuInBlueee's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ArekuInBlueee&theme=synthwave-84" style="width=200"/></a>
 
