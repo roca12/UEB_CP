@@ -45,6 +45,13 @@ Algoritmos y ejercicios resueltos de programación competitiva que han sido real
 - [Repositorios similares](#repositorios-similares)
 - [Contribuidores](#contribuidores)
 
+|                                         |                                               |               |
+| :---                                    |    :----:                                     |          ---: |
+| [Diego Rodriguez](#diego-rodriguez)     |   [Edwin Villaraga](#edwin-villaraga)         | William Castillo  |
+|  Samuel Mesa                            |  Andres Espitia                               |  Federico Vargas      |
+|  Diego Forero                           |  Alejandra Valero                             |  Esteban Mejia     |
+|  Natalia Vergara                        |  David Centeno                                |      |
+
 # Introducción
 
 Repositorio almacenamiento, clasificación y evaluación de algoritmos realizados por los competidores de GPC-UEB
@@ -115,13 +122,18 @@ Universidad El Bosque, Bogotá - Colombia
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArekuInBlueee&layout=compact&&langs_count=10&theme=dark)](https://github.com/ArekuInBlueee)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ArekuInBlueee's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ArekuInBlueee&theme=synthwave-84" style="width=200"/></a>
 ## Esteban Mejia
-[![](https://streak-stats.demolab.com/?user=3xiic&theme=radical&locale=es)](https://git.io/streak-stats)
+[![](https://streak-stats.demolab.com/?user=3xiic&theme=jolly&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=3xiic&layout=compact&&langs_count=10&theme=dark)](https://github.com/3xiic)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="3xiic's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=3xiic&theme=synthwave-84" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="3xiic's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=3xiic&theme=Gotham" style="width=200"/></a>
 ## Natalia Vergara
 [![](https://streak-stats.demolab.com/?user=NatVerB&theme=radical&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=NatVerB&layout=compact&&langs_count=10&theme=dark)](https://github.com/NatVerB)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NatVerB's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=NatVerB&theme=synthwave-84" style="width=200"/></a>
+## David Centeno
+[![](https://streak-stats.demolab.com/?user=3458Robyt&theme=radical&locale=es)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=3458Robyt&layout=compact&&langs_count=10&theme=dark)](https://github.com/3458Robyt)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="3458Robyt's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=3458Robyt&theme=synthwave-84" style="width=200"/></a>
+
 
 
 
