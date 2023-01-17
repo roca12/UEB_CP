@@ -3,9 +3,6 @@ package pCompetiDOM;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
-import java.util.TreeMap;
-import java.util.TreeSet;
-import java.util.Vector;
 
 public class Deconde_The_Tape {
 	public static void main(String[] args) {
