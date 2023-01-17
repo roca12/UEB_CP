@@ -45,12 +45,12 @@ Algoritmos y ejercicios resueltos de programación competitiva que han sido real
 - [Repositorios similares](#repositorios-similares)
 - [Contribuidores](#contribuidores)
 
-|                                         |                                               |               |
-| :---                                    |    :----:                                     |          ---: |
-| [Diego Rodriguez](#diego-rodriguez)     |   [Edwin Villaraga](#edwin-villaraga)         | William Castillo  |
-|  Samuel Mesa                            |  Andres Espitia                               |  Federico Vargas      |
-|  Diego Forero                           |  Alejandra Valero                             |  Esteban Mejia     |
-|  Natalia Vergara                        |  David Centeno                                |      |
+|                                         |                                               |                                          |
+| :---                                    |    :----:                                     |                                     ---: |
+| [Diego Rodriguez](#diego-rodriguez)     |   [Edwin Villaraga](#edwin-villaraga)         | [William Castillo](#william-castillo)    |
+| [Samuel Mesa](#samuel-mesa)             |   [Andres Espitia](#andres-espitia)           | [Federico Vargas](#federico-vargas)      |
+| [Diego Forero](#diego-forero)           |   [Alejandra Valero](#alejandra-valero)       | [Esteban Mejia](#esteban-mejia)          |
+| [Natalia Vergara](#natalia-vergara)     |   [David Centeno](#david-centeno)             |                                          |
 
 # Introducción
 
@@ -89,7 +89,7 @@ Universidad El Bosque, Bogotá - Colombia
 
 
 # Contribuidores
-## Diego Rodriguez
+## Diego Rodriguez 
 [![](https://streak-stats.demolab.com/?user=roca12&theme=java-dark&locale=es)](https://github.com/roca12)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=roca12&layout=compact&langs_count=10&theme=great-gatsby)](https://github.com/roca12)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="roca12's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=roca12&theme=elegant" style="width=200"/></a>
