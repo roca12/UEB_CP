@@ -132,7 +132,7 @@ Universidad El Bosque, Bogotá - Colombia
 ## David Centeno
 [![](https://streak-stats.demolab.com/?user=3458Robyt&theme=radical&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=3458Robyt&layout=compact&&langs_count=10&theme=dark)](https://github.com/3458Robyt)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="3458Robyt's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=3458Robyt&theme=synthwave-84" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="3458Robyt's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=3458Robyt&theme=neon-dark" style="width=200"/></a>
 
 
 
