@@ -114,4 +114,14 @@ Universidad El Bosque, Bogotá - Colombia
 [![](https://streak-stats.demolab.com/?user=ArekuInBlueee&theme=radical&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArekuInBlueee&layout=compact&&langs_count=10&theme=dark)](https://github.com/ArekuInBlueee)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ArekuInBlueee's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ArekuInBlueee&theme=synthwave-84" style="width=200"/></a>
+## Esteban Mejia
+[![](https://streak-stats.demolab.com/?user=3xiic&theme=radical&locale=es)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=3xiic&layout=compact&&langs_count=10&theme=dark)](https://github.com/3xiic)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="3xiic's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=3xiic&theme=synthwave-84" style="width=200"/></a>
+## Natalia Vergara
+[![](https://streak-stats.demolab.com/?user=NatVerB&theme=radical&locale=es)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=NatVerB&layout=compact&&langs_count=10&theme=dark)](https://github.com/NatVerB)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NatVerB's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=NatVerB&theme=synthwave-84" style="width=200"/></a>
+
+
 
