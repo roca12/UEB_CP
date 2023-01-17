@@ -31,19 +31,19 @@
   </p>
 </p>
 
-Algoritmos y ejercicios resueltos de programación competitiva que han sido realizados por los diferentes competidores de la Universidad El Bosque luego de los respectivos entrenamientos y clases de cada tema.
+Algoritmos y ejercicios resueltos de programación competitiva que han sido realizados por los diferentes competidores de la Universidad El Bosque luego de los respectivos entrenamientos, clases de cada tema y competencias en las que han participado.
 
 
 # Contenido
-- [Introducción](#introducción)
-- [Códigos por competidor](#códigos-por-competidor)
-- [Libros e ilustraciones](#libros-e-ilustraciones)
-- [Resueltos por competidor](#resueltos-por-competidor)
-- [Soluciones de jueces en línea](#soluciones-de-jueces-en-línea)
-- [Templates y códigos curiosos](#templates-y-códigos-curiosos)
-- [Acerca del propietario](#acerca-del-propietario)
-- [Repositorios similares](#repositorios-similares)
-- [Contribuidores](#contribuidores)
+- :information_source: [Introducción](#introducción)
+- :computer: [Códigos por competidor](#códigos-por-competidor)
+- :orange_book: [Libros e ilustraciones](#libros-e-ilustraciones)
+- :white_check_mark: [Resueltos por competidor](#resueltos-por-competidor)
+- :100: [Soluciones de jueces en línea](#soluciones-de-jueces-en-línea)
+- :dizzy_face: [Templates y códigos curiosos](#templates-y-códigos-curiosos)
+- :eyeglasses: [Acerca del propietario](#acerca-del-propietario)
+- :bangbang: [Repositorios similares](#repositorios-similares)
+- :turtle: [Contribuidores](#contribuidores)
 
 |                                         |                                               |                                          |
 | :---                                    |    :----:                                     |                                     ---: |
