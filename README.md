@@ -135,8 +135,8 @@ Universidad El Bosque, Bogotá - Colombia
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="3458Robyt's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=3458Robyt&theme=neon-dark" style="width=200"/></a>
 ## Yishaq Riveros
 [![](https://streak-stats.demolab.com/?user=Yishaqriv&theme=radical&locale=es)](https://git.io/streak-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yishaqriv&layout=compact&&langs_count=10&theme=dark)](https://github.com/Yishaqriv)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yishaqriv's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Yishaqriv&theme=neon-dark" style="width=200"/></a>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yishaqriv&layout=compact&&langs_count=10&theme=violet-punch)](https://github.com/Yishaqriv)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yishaqriv's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Yishaqriv&theme=tokyo-night" style="width=200"/></a>
 
 
 
