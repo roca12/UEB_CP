@@ -50,7 +50,7 @@ Algoritmos y ejercicios resueltos de programación competitiva que han sido real
 | [Diego Rodriguez](#diego-rodriguez) :four_leaf_clover:    |   [Edwin Villaraga](#edwin-villaraga)         | [William Castillo](#william-castillo)    |
 | [Samuel Mesa](#samuel-mesa)             |   [Andres Espitia](#andres-espitia)           | [Federico Vargas](#federico-vargas)      |
 | [Diego Forero](#diego-forero)           |   [Alejandra Valero](#alejandra-valero)       | [Esteban Mejia](#esteban-mejia)          |
-| [Natalia Vergara](#natalia-vergara)     |   [David Centeno](#david-centeno)             |                                          |
+| [Natalia Vergara](#natalia-vergara)     |   [David Centeno](#david-centeno)             | [Yishaq Riveros](#yishaq-riveros)          |
 
 # Introducción
 
