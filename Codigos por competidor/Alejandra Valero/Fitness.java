@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class Fitness {
+	
+	public static void main (String []args) {
+		Scanner sc = new Scanner (System.in);
+		int ncasos = sc.nextInt();
+		for(int i = 0; i < ncasos; i++) {
+			int km = sc.nextInt();
+			int result = km*10;
+			System.out.println(result);
+		}
+	}
+
+}
