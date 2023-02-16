@@ -139,6 +139,7 @@ Universidad El Bosque, Bogotá - Colombia
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yishaqriv&layout=compact&&langs_count=10&theme=violet-punch)](https://github.com/Yishaqriv)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yishaqriv's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Yishaqriv&theme=tokyo-night" style="width=200"/></a>
 
-
-
-
+## Juan Castillo
+[![GitHub Streak](https://streak-stats.demolab.com?user=cfuendev&theme=python-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cfuendev&layout=compact&bg_color=000000&text_color=FED33B&title_color=4B8ABD&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Severos Commits de Cfuen" src="https://github-readme-activity-graph.cyclic.app/graph/?username=cfuendev&line=FED33B&point=4B8ABD&bg_color=000000&color=4B8ABD&area=true&area_color=FED33B" style="width=200"/></a>
