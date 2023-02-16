@@ -45,12 +45,35 @@ Algoritmos y ejercicios resueltos de programación competitiva que han sido real
 - :bangbang: [Repositorios similares](#repositorios-similares)
 - :turtle: [Contribuidores](#contribuidores)
 
-|                                         |                                               |                                          |
-| :---                                    |    :----:                                     |                                     ---: |
-| [Diego Rodriguez](#diego-rodriguez) :four_leaf_clover:    |   [Edwin Villaraga](#edwin-villaraga)         | [William Castillo](#william-castillo)    |
-| [Samuel Mesa](#samuel-mesa)             |   [Andres Espitia](#andres-espitia)           | [Federico Vargas](#federico-vargas)      |
-| [Diego Forero](#diego-forero)           |   [Alejandra Valero](#alejandra-valero)       | [Esteban Mejia](#esteban-mejia)          |
-| [Natalia Vergara](#natalia-vergara)     |   [David Centeno](#david-centeno)             | [Yishaq Riveros](#yishaq-riveros)          |
+<table>
+	<tbody>
+		<tr>
+			<td><a href="#diego-rodriguez">Diego Rodriguez :four_leaf_clover:</a></td>
+			<td><a href="#edwin-villarga">Edwin Villarga</a></td>
+			<td><a href="#william-castillo">William Castillo</a></td>
+		</tr>
+		<tr>
+			<td><a href="#samuel-mesa">Samuel Mesa</a></td>
+			<td><a href="#andres-espitia">Andrés Espitia</a></td>
+			<td><a href="#federico-vargas">Federico Vargas</a></td>
+		</tr>
+		<tr>
+			<td><a href="#diego-forero">Diego Forero</a></td>
+			<td><a href="#alejandra-valero">Alejandra Valero</a></td>
+			<td><a href="#esteban-mejia">Esteban Mejia</a></td>
+		</tr>
+		<tr>
+			<td><a href="#natalia-vergara">Natalia Vergara</a></td>
+			<td><a href="#david-centeno">David Centeno</a></td>
+			<td><a href="#yishaq-riveros">Yishaq Riveros</a></td>
+		</tr>
+		<tr>
+			<td><a href="#juan-diego-valderrama">Juan Valderrama</a></td>
+			<td><a href="#juan-castillo">Juan Castillo</a></td>
+		</tr>
+	</tbody>
+</table>
+
 
 # Introducción
 
