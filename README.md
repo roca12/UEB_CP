@@ -138,6 +138,13 @@ Universidad El Bosque, Bogotá - Colombia
 [![](https://streak-stats.demolab.com/?user=Yishaqriv&theme=radical&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yishaqriv&layout=compact&&langs_count=10&theme=violet-punch)](https://github.com/Yishaqriv)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yishaqriv's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Yishaqriv&theme=tokyo-night" style="width=200"/></a>
+## Juan Diego Valderrama
+[![](https://streak-stats.demolab.com?user=sseuriracha&theme=violet-dark)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=sseuriracha&layout=compact&&langs_count=10&theme=violet-dark)](https://github.com/sseuriracha)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sseuriracha's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=sseuriracha&theme=violet-dark" style="width=200"/></a>
+
+
+
 
 ## Juan Castillo
 [![GitHub Streak](https://streak-stats.demolab.com?user=cfuendev&theme=python-dark&hide_border=true)](https://git.io/streak-stats)
