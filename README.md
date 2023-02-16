@@ -49,7 +49,7 @@ Algoritmos y ejercicios resueltos de programación competitiva que han sido real
 	<tbody>
 		<tr>
 			<td><a href="#diego-rodriguez">Diego Rodriguez :four_leaf_clover:</a></td>
-			<td><a href="#edwin-villarga">Edwin Villarga</a></td>
+			<td><a href="#edwin-villaraga">Edwin Villaraga</a></td>
 			<td><a href="#william-castillo">William Castillo</a></td>
 		</tr>
 		<tr>
