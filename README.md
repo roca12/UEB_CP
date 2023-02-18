@@ -163,7 +163,7 @@ Universidad El Bosque, Bogotá - Colombia
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yishaqriv's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Yishaqriv&theme=tokyo-night" style="width=200"/></a>
 ## Juan Diego Valderrama
 [![](https://streak-stats.demolab.com?user=sseuriracha&theme=violet-dark)](https://git.io/streak-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=sseuriracha&layout=compact&&langs_count=10&theme=violet-dark)](https://github.com/sseuriracha)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=sseuriracha&layout=compact&&langs_count=10&theme=midnight-purple)](https://github.com/sseuriracha)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sseuriracha's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=sseuriracha&theme=violet-dark" style="width=200"/></a>
 
 
