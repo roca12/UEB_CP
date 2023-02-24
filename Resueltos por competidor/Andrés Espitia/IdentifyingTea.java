@@ -1,4 +1,4 @@
-package CompDom;
+package Clasificatorio;
 
 import java.util.Scanner;
 
