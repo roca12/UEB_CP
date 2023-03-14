@@ -43,10 +43,10 @@ public class Catan {
 		}
 
 		void DFSUtil(int v, boolean visited[]) {
-			
+
 			maxactual = max > maxactual ? max : maxactual;
 			visited[v] = true;
-			//System.out.print(v + " ");
+			// System.out.print(v + " ");
 
 			Iterator<Integer> i = adj[v].listIterator();
 			while (i.hasNext()) {

@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class Integer {
+public class IntegerProb {
 
 	public static void main(String[] args) {
 		Scanner sc =  new Scanner(System.in);
