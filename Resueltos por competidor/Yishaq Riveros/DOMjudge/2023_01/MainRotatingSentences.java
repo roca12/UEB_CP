@@ -9,14 +9,14 @@ public class MainRotatingSentences {
         String[] sentences = new String[100];
         int maxLength = 0;
 
-        // Read input sentences and find the maximum length
+        
         for (int i = 0; i < 100 && scanner.hasNextLine(); i++) {
             String sentence = scanner.nextLine();
             sentences[i] = sentence;
             maxLength = Math.max(maxLength, sentence.length());
         }
 
-        // Print rotated sentences
+        
         for (int i = 0; i < maxLength; i++) {
             for (int j = sentences.length - 1; j >= 0; j--) {
                 String sentence = sentences[j];
