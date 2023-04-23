@@ -1,0 +1,18 @@
+<html>
+    <head>
+	<meta charset="utf-8">
+        <title>Login</title>
+	<link rel="stylesheet" href="style.css">
+    </head>
+<body>
+    <form class="box" action="login.php" method="post">
+        <h1>LOGIN</h1>
+        <?php if(isset($_GET['error'])){ ?>
+            <p><?php echo $_GET['error']; ?></p>
+        <?php } ?>
+        <input type="text" name="usuario" placeholder="Usuario">
+        <input type="password" name="contrasena" placeholder="Contraseña">
+        <input type="submit" value = "Logearse">
+    </form>
+</body>
+</html>

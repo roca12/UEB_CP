@@ -1,0 +1,438 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color :#130742;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cabecera{
+    width: 1000px;
+    padding: 40px;
+    position: absolute;
+    top: 9%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #0A420A;
+    text-align: center;
+}
+.cabecera a{
+    color: #A7BEFE;
+    font-size:30;
+    text-decoration:none;
+}
+/*______________________________________________________________*/
+.texto{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #090610;
+    text-align: center;
+}
+
+.texto p{
+    color: white;
+    font-size: 20;
+}
+.texto a{
+    color: #1CDAAC;
+    font-size: 20;
+}
+.texto h1{
+    color:white;
+}
+/*_______________________________________________________________--*/
+.textoi{
+    width: 500px;
+    padding: 40px;
+    position: absolute;
+    top: 110%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #090610;
+    text-align: center;
+}
+
+.textoi p{
+    color: white;
+    font-size: 20;
+}
+.textoi h1, .textoi h2{
+    color: white;
+}
+.textoi input[type ="float"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin:20px auto;
+    text-align: center;
+    border: 2px solid #22A39B;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+}
+.textoi input[type ="float"]:focus{
+    width: 280px;
+    border-color: #3C991D;
+}
+
+/*_______________________________________________________________--*/
+.textoa{
+    width: 800px;
+    padding: 40px;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #090610;
+    text-align: center;
+}
+
+.textoa ul{
+    color: white;
+    font-size: 20;
+}
+.textoa p{
+    color: white;
+    font-size: 20;
+}
+.textoa h1{
+    color: white;
+    font-size: 20;
+}
+
+/*_______________________________________________________________--*/
+.textou{
+    width: 1000px;
+    padding: 40px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #090610;
+    text-align: center;
+}
+
+.textou p{
+    color: white;
+    font-size: 20;
+}
+.textou h1, .textou h2{
+    color: white;
+}
+.textou table {
+   width: 100%;
+   border: 1px solid white;
+}
+.textou th, td {
+   width: 25%;
+   text-align: left;
+   color: white;
+   vertical-align: top;
+   border: 1px solid white;
+   border-collapse: collapse;
+   padding: 0.3em;
+   caption-side: bottom;
+}
+.textou caption {
+    padding: 0.3em;
+    color: white;
+    background: white;
+}
+.textou th {
+   background: white;
+}
+
+
+
+
+/*_______________________________________________________________--*/
+
+a:hover{
+    font-size:40px;
+    color: white;
+    
+}
+
+.box{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #090610;
+    text-align: center;
+}
+
+.box h1{
+    color:YELLOW;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.box p{
+    color:white;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+
+.box input[type ="text"],.box input[type = "password"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin:20px auto;
+    text-align: center;
+    border: 2px solid #22A39B;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+}
+
+.box input[type ="text"]:focus,.box input[type = "password"]:focus{
+    width: 280px;
+    border-color: #3C991D;
+}
+
+.box input[type="submit"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin:20px auto;
+    text-align: center;
+    border: 2px solid #3C991D;
+    padding: 14px 40px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+.box input[type = "submit"]:hover{
+    background: #3C991D;
+}
+
+
+
+/*registro*/
+
+.box1{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -25%);
+    background: #090610;
+    text-align: center;
+}
+.box1 p{
+    color: white;
+    font-weight: 300;
+}
+
+.box1 h1{
+    color:white;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.box1 input[type ="text"],.box1 input[type = "password"], .box1 input[type = "number"], .box1 input[type = "float"], .box1 input[type="date"], .selecta{
+    border: 0;
+    background: none;
+    display: block;
+    margin:20px auto;
+    text-align: center;
+    border: 2px solid #22A39B;
+    padding: 14px 10px;
+    width: 200px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    font-family: sans-serif;
+}
+
+.selecta option{
+    color: black;
+    font-weight: normal;
+}
+
+.box1 input[type ="text"]:focus,.box1 input[type = "password"]:focus,.box1 input[type = "number"]:focus, .box1 input[type = "float"]:focus, .box1 input[type="date"]:focus,.selecta:focus{
+    width: 280px;
+    border-color: #3C991D;
+}
+
+
+.box1 input[type="radio"]{
+    color: white;
+}
+
+.box1 input[type="submit"]{
+    border: 0;
+    background: none;
+    display: block;
+    margin:20px auto;
+    text-align: center;
+    border: 2px solid #3C991D;
+    padding: 14px 40px;
+    outline: none;
+    color: white;
+    border-radius: 24px;
+    transition: 0.25s;
+    cursor: pointer;
+}
+.box1 input[type = "submit"]:hover{
+    background: #3C991D;
+}
+
+/*_______________________*/
+
+
+#container {
+    width: 400px;
+    height: 400px;
+    padding: 0;
+    box-sizing: border-box;
+    background: #424f6f;
+}
+
+*:after,
+*:before {
+    box-sizing: inherit;
+}
+
+#spooky {
+    margin: 10% auto;
+    width: 80%;
+    height: 80%;
+    animation: floaty 2s infinite;
+}
+
+#spooky #body {
+    position: relative;
+    margin: 50px auto 0;
+    width: 180px;
+    height: 220px;
+    background: #f2fbf1;
+    border-top-left-radius: 90px;
+    border-top-right-radius: 90px;
+}
+
+#spooky #body:before,
+#spooky #body:after {
+    content: '';
+    position: absolute;
+    top: 130px;
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: #f2fbf1;
+    animation: floaty .2s infinite;
+}
+
+#spooky #body:before {
+    left: -18px;
+}
+
+#spooky #body:after {
+    right: -18px;
+}
+
+#spooky #body #eyes {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 90px 0 0;
+    width: 90px;
+    height: 20px;
+}
+
+#spooky #body #eyes:before,
+#spooky #body #eyes:after {
+    content: ' ';
+    display: block;
+    width: 30px;
+    height: 30px;
+    background: #252c49;
+    border-radius: 50%;
+}
+
+#spooky #body #mouth {
+    background: #252c49;
+    margin: 25px auto 0;
+    width: 60px;
+    height: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+#spooky #body #mouth:before {
+    content: ' ';
+    display: block;
+    background: #fff;
+    margin-left: 20px;
+    width: 10px;
+    height: 10px;
+}
+
+#spooky #body #feet {
+    position: absolute;
+    display: flex;
+    bottom: -18px;
+    width: 180px;
+    height: 36px;
+}
+
+#spooky #body #feet > *,
+#spooky #body #feet::before,
+#spooky #body #feet::after {
+    content: ' ';
+    width: 36px;
+    height: 36px;
+    background: #f2fbf1;
+    border-radius: 50%;
+}
+
+#shadow {
+    margin: -90px auto 0;
+    background: #252c49;
+    width: 180px;
+    height: 40px;
+    border-radius: 50%;
+    animation: zoomy 2s infinite;
+}
+
+@keyframes floaty {
+    0%, 100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-20px);
+    }
+}
+
+@keyframes zoomy {
+    0%, 100% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(0.8);
+    }
+}
