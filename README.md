@@ -102,7 +102,7 @@ Contiene soluciones de multiples jueces online y competencias ya pasadas, se uti
 Utilizada para almacenar plantillas de inicio de codificación y codigos recientemente decubiertos que tienen potencial futuro de uso dentro de las diferentes competencias, si encuentras algo que deseas que se analice y verifique, colocalo aqui.
 
 # Acerca del propietario
-Administrado por GPC-UEB (intro, intermedia y avanzada)
+Administrado por GPC-UEB (básica, intermedia y avanzada)
 Universidad El Bosque, Bogotá - Colombia
 
 # Repositorios similares
