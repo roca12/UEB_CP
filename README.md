@@ -116,55 +116,55 @@ Universidad El Bosque, Bogotá - Colombia
 ## Diego Rodriguez 
 [![](https://streak-stats.demolab.com/?user=roca12&theme=java-dark&locale=es)](https://github.com/roca12)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=roca12&layout=compact&langs_count=10&theme=great-gatsby)](https://github.com/roca12)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="roca12's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=roca12&theme=elegant" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="roca12's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=roca12&theme=elegant" style="width=200"/></a>
 ## Edwin Villaraga
 [![](https://streak-stats.demolab.com/?user=edanv1401&theme=dracula&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=edanv1401&layout=compact&&langs_count=10&theme=omni)](https://github.com/edanv1401)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="edanv1401's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=edanv1401&theme=dracula" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="edanv1401's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=edanv1401&theme=dracula" style="width=200"/></a>
 ## William Castillo
 [![](https://streak-stats.demolab.com/?user=PORTAMELO&theme=midnight-purple&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=PORTAMELO&layout=compact&&langs_count=10&theme=dark)](https://github.com/PORTAMELO)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="PORTAMELO's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=PORTAMELO&theme=nightowl" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="PORTAMELO's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=PORTAMELO&theme=nightowl" style="width=200"/></a>
 ## Samuel Mesa
 [![](https://streak-stats.demolab.com/?user=JUSTSAM3&theme=windows-dark&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=JUSTSAM3&layout=compact&&langs_count=10&theme=dark)](https://github.com/JUSTSAM3)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JUSTSAM3's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=JUSTSAM3&theme=github-dark" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="JUSTSAM3's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=JUSTSAM3&theme=github-dark" style="width=200"/></a>
 ## Andres Espitia
 [![](https://streak-stats.demolab.com/?user=anfeespi&theme=radical&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=anfeespi&layout=compact&&langs_count=10&theme=dark)](https://github.com/anfeespi)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="anfeespi's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=anfeespi&theme=synthwave-84" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="anfeespi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=anfeespi&theme=synthwave-84" style="width=200"/></a>
 ## Federico Vargas
 [![](https://streak-stats.demolab.com/?user=VirtualEagle04&theme=dark-smoky&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtualEagle04&layout=compact&&langs_count=10&theme=dark)](https://github.com/VirtualEagle04)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="VirtualEagle04's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=VirtualEagle04&theme=high-contrast" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="VirtualEagle04's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=VirtualEagle04&theme=high-contrast" style="width=200"/></a>
 ## Diego Forero
 [![](https://streak-stats.demolab.com/?user=DiegoF1311&theme=radical&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoF1311&layout=compact&&langs_count=10&theme=dark)](https://github.com/DiegoF1311)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DiegoF1311's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=DiegoF1311&theme=synthwave-84" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DiegoF1311's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DiegoF1311&theme=synthwave-84" style="width=200"/></a>
 ## Alejandra Valero
 [![](https://streak-stats.demolab.com/?user=ArekuInBlueee&theme=radical&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArekuInBlueee&layout=compact&&langs_count=10&theme=dark)](https://github.com/ArekuInBlueee)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ArekuInBlueee's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ArekuInBlueee&theme=synthwave-84" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ArekuInBlueee's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ArekuInBlueee&theme=synthwave-84" style="width=200"/></a>
 ## Esteban Mejia
 [![](https://streak-stats.demolab.com/?user=3xiic&theme=jolly&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=3xiic&layout=compact&&langs_count=10&theme=dark)](https://github.com/3xiic)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="3xiic's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=3xiic&theme=Gotham" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="3xiic's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=3xiic&theme=Gotham" style="width=200"/></a>
 ## Natalia Vergara
 [![](https://streak-stats.demolab.com/?user=NatVerB&theme=radical&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=NatVerB&layout=compact&&langs_count=10&theme=dark)](https://github.com/NatVerB)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NatVerB's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=NatVerB&theme=synthwave-84" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="NatVerB's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NatVerB&theme=synthwave-84" style="width=200"/></a>
 ## David Centeno
 [![](https://streak-stats.demolab.com/?user=3458Robyt&theme=radical&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=3458Robyt&layout=compact&&langs_count=10&theme=dark)](https://github.com/3458Robyt)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="3458Robyt's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=3458Robyt&theme=neon-dark" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="3458Robyt's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=3458Robyt&theme=neon-dark" style="width=200"/></a>
 ## Yishaq Riveros
 [![](https://streak-stats.demolab.com/?user=Yishaqriv&theme=radical&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yishaqriv&layout=compact&&langs_count=10&theme=violet-punch)](https://github.com/Yishaqriv)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yishaqriv's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Yishaqriv&theme=tokyo-night" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yishaqriv's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Yishaqriv&theme=tokyo-night" style="width=200"/></a>
 ## Juan Diego Valderrama
 [![](https://streak-stats.demolab.com?user=sseuriracha&theme=violet-dark)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=sseuriracha&layout=compact&&langs_count=10&theme=midnight-purple)](https://github.com/sseuriracha)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sseuriracha's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=sseuriracha&theme=violet-dark" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="sseuriracha's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sseuriracha&theme=violet-dark" style="width=200"/></a>
 
 
 
@@ -172,4 +172,4 @@ Universidad El Bosque, Bogotá - Colombia
 ## Juan Castillo
 [![GitHub Streak](https://streak-stats.demolab.com?user=cfuendev&theme=python-dark&hide_border=true)](https://git.io/streak-stats)
 [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cfuendev&layout=compact&bg_color=000000&text_color=FED33B&title_color=4B8ABD&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Severos Commits de Cfuen" src="https://github-readme-activity-graph.cyclic.app/graph/?username=cfuendev&line=FED33B&point=4B8ABD&bg_color=000000&color=4B8ABD&area=true&area_color=FED33B" style="width=200"/></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Severos Commits de Cfuen" src="https://github-readme-activity-graph.vercel.app/graph/?username=cfuendev&line=FED33B&point=4B8ABD&bg_color=000000&color=4B8ABD&area=true&area_color=FED33B" style="width=200"/></a>
