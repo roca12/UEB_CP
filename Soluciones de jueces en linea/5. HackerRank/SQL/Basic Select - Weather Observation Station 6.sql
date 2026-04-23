@@ -1,1 +1,0 @@
-SELECT CITY FROM STATION WHERE upper(substr(CITY, 1,1)) IN ('A','E','I','O','U');

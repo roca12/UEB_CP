@@ -1,9 +1,0 @@
-#CodeBlocks .exe and .o files
-*.o
-*.exe
-.idea
-.DS_Store
-
-#Jupyter Notebook checkpoints
-.ipynb_checkpoints
-node_modules
