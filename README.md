@@ -95,6 +95,10 @@ Universidad El Bosque, Bogotá - Colombia
 [![](https://streak-stats.demolab.com/?user=DiegoF1311&theme=radical&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoF1311&layout=compact&&langs_count=10&theme=dark)](https://github.com/DiegoF1311)
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DiegoF1311's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DiegoF1311&theme=synthwave-84" style="width=200"/></a>
+## Juan Diego González
+[![](https://streak-stats.demolab.com/?user=Luxuan205&theme=radical&locale=es)](https://git.io/streak-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luxuan205&layout=compact&&langs_count=10&theme=dark)](https://github.com/Luxuan205)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Luxuan205's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Luxuan205&theme=synthwave-84" style="width=200"/></a>
 ## Esteban Mejia
 [![](https://streak-stats.demolab.com/?user=3xiic&theme=jolly&locale=es)](https://git.io/streak-stats)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=3xiic&layout=compact&&langs_count=10&theme=dark)](https://github.com/3xiic)
