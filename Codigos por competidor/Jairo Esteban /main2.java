@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//CCPL EJERCICIO SALTO TRIPLE A
 public class Main2 {
 
 	static Scanner sc = new Scanner(System.in);
