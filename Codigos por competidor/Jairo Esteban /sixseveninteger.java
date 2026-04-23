@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 //2218A
+
+//2
 public class sixseveninteger {
 
     static Scanner sc = new Scanner(System.in);
