@@ -21,3 +21,4 @@ int main()
     }
 
 }
+// link: https://codeforces.com/contest/546/problem/A
