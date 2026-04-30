@@ -1,6 +1,10 @@
-/*CodeChef exercise, Intermedia
-https://www.codechef.com/problems/HW3G
-*/
+/*
+ * Autor: OtherSpanish
+ * Problema: ShortestPath
+ * Juez online: CodeChef
+ * Veredicto: Correct Answer
+ * https://www.codechef.com/problems/HW3G
+ */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
