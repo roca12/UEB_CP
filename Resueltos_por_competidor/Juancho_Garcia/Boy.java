@@ -1,12 +1,12 @@
 package ejercicios;
 
 /*
- * Autor: JuanchoEspriella
- * Problema: Boy or Girl (https://codeforces.com/problemset/problem/236/A)
- * Juez online: Codeforce
- * Veredicto: accepted  
- * ANASHEI
- * */
+ * Autor: Juan Andres Garcia
+ * Problema: Boy or Girl
+ * Juez online: Codeforces
+ * Veredicto: Accepted
+ * Url: https://codeforces.com/problemset/problem/236/A
+ **/
 import java.util.HashSet;
 import java.util.Scanner;
 
