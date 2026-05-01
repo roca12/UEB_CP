@@ -1,5 +1,11 @@
 import java.util.Scanner;
-
+/*
+ * Autor: [Gina Buitrago]
+ * Problema: [ Contando Velitas - v2]
+ * Juez online: [OmegaUp]
+ * Veredicto: Accepted
+ * URL: [https://omegaup.com/arena/problem/Contando-velitas/]
+ */
 public class ContandoVelitasV2 {
 
 	public static void main(String[] args) {
