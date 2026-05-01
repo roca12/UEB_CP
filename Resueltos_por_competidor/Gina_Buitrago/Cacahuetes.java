@@ -1,6 +1,12 @@
 import java.util.Scanner;
-
-public class Cacahuetes {
+/*
+	 * Autor: [Gina Buitrago]
+	 * Problema: [Cacahuates]
+	 * Juez online: [OmegaUp]
+	 * Veredicto: Accepted
+	 * URL: [https://omegaup.com/arena/CB032026I/#problems/cacahuates]
+	 */
+public class Cacahuates {
 
 	public static void main(String[] args) {
 		   Scanner sc = new Scanner(System.in);
