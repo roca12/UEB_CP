@@ -1,5 +1,12 @@
 import java.util.Scanner;
 
+/*
+	 * Autor: [Gina Buitrago]
+	 * Problema: [ Esferas del Dragon]
+	 * Juez online: [OmegaUp]
+	 * Veredicto: Accepted
+	 * URL: [https://omegaup.com/arena/CB032026I/#problems/esferas-del-dragon-cb]
+	 */
 public class EsferasDelDragon {
 
     public static void main(String[] args) {
