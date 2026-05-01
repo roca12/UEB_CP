@@ -6,7 +6,7 @@ import java.util.Scanner;
 	 * Veredicto: Accepted
 	 * URL: [https://omegaup.com/arena/CB032026I/#problems/cacahuates]
 	 */
-public class Cacahuates {
+public class Cacahuetes {
 
 	public static void main(String[] args) {
 		   Scanner sc = new Scanner(System.in);
