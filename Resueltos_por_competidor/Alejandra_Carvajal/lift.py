@@ -1,3 +1,9 @@
+# Autor: Alejandra Carvajal 
+# Problema: Lift
+# Juez online: LighOJ
+# Veredicto: Accepted
+# URL: https://lightoj.com/problem/lift
+
 import math
 t = int(input())
 
