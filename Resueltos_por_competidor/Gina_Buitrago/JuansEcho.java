@@ -1,5 +1,11 @@
 import java.util.Scanner;
-
+	/*
+	 * Autor: [Gina Buitrago]
+	 * Problema: [Juan's Echo]
+	 * Juez online: [OmegaUp]
+	 * Veredicto: Accepted
+	 * URL: [https://omegaup.com/arena/problem/Juans-Echo/]
+	 */
 public class JuansEcho {
 
 	public static void main(String[] args) {
