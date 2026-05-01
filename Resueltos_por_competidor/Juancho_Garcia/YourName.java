@@ -1,8 +1,15 @@
-package ejercicios;
+
 
 import java.util.Arrays;
-import java.util.HashSet;
 import java.util.Scanner;
+
+/*
+ * Autor: Juan Andres Garcia
+ * Problema: Your Name
+ * Juez online: Codeforces
+ * Veredicto: Accepted
+ * Url: https://codeforces.com/problemset/problem/2167/B
+ *  **/
 
 public class YourName {
 	public static void main(String[] args) {
@@ -25,11 +32,6 @@ public class YourName {
 			
 			Arrays.sort(acant);
 			Arrays.sort(bcant);
-			
-			System.out.println(acant);
-			System.out.println(bcant);
-			
-		
 			
 			
 			if( !Arrays.equals(acant, bcant) ) {
