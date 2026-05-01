@@ -1,10 +1,11 @@
 import java.util.Scanner;
 /*
-Autor: JorgeNuñez
-Problema: Codeforces Checking(https://codeforces.com/problemset/problem/1791/A)
-Juez online: Codeforce
-Veredicto: accepted
-*/
+ * Autor: [JorgeNuñez]
+ * Problema: [Codeforces Checking]
+ * Juez online: [Codeforce]
+ * Veredicto: Accepted
+ * URL: [https://codeforces.com/problemset/problem/1791/A]
+ */
 public class Main {
 
 	public static void main(String[] args) {
