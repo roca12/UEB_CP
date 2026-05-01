@@ -1,6 +1,14 @@
 import java.util.Scanner;
 
 public class Main {
+
+	/*
+	 * Autor: Carlos Eduardo Cobaleda Moreno
+	 * Problema: Juice In The Glass
+	 * Juez online: LightOJ
+	 * Veredicto: Accepted
+	 * URL: https://lightoj.com/submissions?problem=juice-in-the-glass
+	 */
 	
 	public static void main(String[] args) {
 		
