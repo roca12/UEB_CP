@@ -1,13 +1,12 @@
-package ejercicios;
 
 
 /*
- * Autor: JuanchoEspriella
- * Problema: How Much Does Daytona Cost? (https://codeforces.com/problemset/problem/1878/A)
- * Juez online: Codeforce
- * Veredicto: accepted  
- * ANASHEI
- * */
+ * Autor: Juan Andres Garcia
+ * Problema: How Much Does Daytona Cost?
+ * Juez online: Codeforces
+ * Veredicto: Accepted
+ * Url: https://codeforces.com/problemset/problem/1878/A
+ **/
 
 
 import java.util.ArrayList;
