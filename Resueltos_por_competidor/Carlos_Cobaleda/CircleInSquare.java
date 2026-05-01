@@ -20,12 +20,12 @@ public class Main {
 		int t = Integer.parseInt(br.readLine());
 		for (int i = 0; i < t; i++) {
 			
-			float r = Float.parseFloat(br.readLine());
-			float l = r*2;
-			float acu = l*l;
-			float pi = (float) (2 * Math.acos(0.0));
-			float aci = pi * (r*r);
-			float as = acu - aci;
+			double r = Double.parseDouble(br.readLine());
+			double l = r*2;
+			double acu = l*l;
+			double pi = (double) (2 * Math.acos(0.0));
+			double aci = pi * (r*r);
+			double as = acu - aci;
             int in = i+1;
 			
 			System.out.println("Case " + in + ": " + df.format(as));
