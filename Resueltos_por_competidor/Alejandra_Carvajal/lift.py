@@ -1,6 +1,6 @@
-# Autor: Alejandra Carvajal 
+# Autor: Alejandra Carvajal
 # Problema: Lift
-# Juez online: LighOJ
+# Juez online: LightOJ
 # Veredicto: Accepted
 # URL: https://lightoj.com/problem/lift
 
@@ -19,3 +19,4 @@ for i in range(1, t+1):
     tiempo = (puerta * 2) + (entrada_salida * 2) + f + ground_floor + puerta
     
     print(f"Case {i}: {tiempo}")
+    

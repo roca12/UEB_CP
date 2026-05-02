@@ -1,11 +1,11 @@
-
 /*
  * Autor: Miguel Lopez
  * Problema: Mishka and Game
  * Juez online: CodeForces
  * Veredicto: Accepted
- * URL: https://codeforces.com/contest/703/problem/A
+ * URL: https://codeforces.com/problemset/problem/703/A
  */
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long int ll;

@@ -1,7 +1,7 @@
 # Autor: Alejandra Carvajal
 # Problema: Subscriptions
-# Juez online: CodeChef
-# Veredicto: Accepted
+# Juez online: Codechef
+# Veredicto: Correct
 # URL: https://www.codechef.com/problems/SUBSCRIBE_
 
 import math
