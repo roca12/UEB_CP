@@ -1,3 +1,11 @@
+/*
+ * Autor: Gina Sofia Sánchez Estupiñan
+ * Problema: Way Too Long Words
+ * Juez online: Codeforces
+ * Veredicto: Accepted
+ * URL: https://codeforces.com/problemset/problem/71/A
+ */
+
 import java.util.Scanner;
 
 public class WayTooLongWords {
