@@ -1,3 +1,11 @@
+/*
+ * Autor: Juan Diego Gonzalez Villarreal
+ * Problema: Good Array
+ * Juez online: Codeforces
+ * Veredicto: Accepted
+ * URL: https://codeforces.com/contest/1077/problem/C
+ */
+
 #include<bits/stdc++.h>
 typedef long long ll;
 #define DBG(X) cerr<<#X<<": "<<(X)<<endl;
