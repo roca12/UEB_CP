@@ -1,3 +1,10 @@
+/*
+ * Autor: OtherSpanish
+ * Problema: Koshary 
+ * Juez online: Codeforces
+ * Veredicto: Accepted
+ * https://codeforces.com/contest/2227/problem/A
+ */
 import java.util.Scanner;
 
 public class A_Koshary {
