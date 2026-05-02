@@ -3,7 +3,7 @@
  * Problema: Fibonacci Freeze 495
  * Juez online: UVA
  * Veredicto: Accepted
- * https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=436
+ * URL: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=436
  */
 
 import java.io.BufferedReader;
