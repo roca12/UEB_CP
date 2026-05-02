@@ -1,4 +1,3 @@
-#include <bits/stdc++.h>
  /*
 	 * Autor: Carlos Eduardo Cobaleda Moreno
 	 * Problema: How Cow
@@ -6,6 +5,8 @@
 	 * Veredicto: Accepted
 	 * URL: https://lightoj.com/problem/how-cow
 	 */
+
+#include <bits/stdc++.h>
 using namespace std;
 typedef long long int ll;
 int main()

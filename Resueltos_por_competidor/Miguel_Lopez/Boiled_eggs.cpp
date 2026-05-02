@@ -1,4 +1,3 @@
-
 /*
  * Autor: Miguel Lopez
  * Problema: Boiled Eggs
@@ -16,7 +15,7 @@ int main()
     int t;cin >> t;
     for(int i = 0; i < t; i++){
         int n,p,q; cin >> n >> p >> q;
-        int cont = 0,total = 0;
+        int c = 0,total = 0;
         for(int i = 0; i < n; i++){
             int w; cin >> w;
             if(cont < p && total + w <= q){
@@ -24,7 +23,7 @@ int main()
                 total += w;
             }
         }
-        cout << "Case " << i+1 << ": " << cont << endl;
+        cout << "Case " << c << ": " << cont << endl;
     }
 }
 

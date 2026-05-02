@@ -1,10 +1,11 @@
 /*
  * Autor: Miguel Lopez
- * Problema: The 67th Integer Problem
+ * Problema: The 67th integer problem
  * Juez online: CodeForces
- * Veredicto: Accepted 
+ * Veredicto: Accepted
  * URL: https://codeforces.com/contest/2218/problem/A
  */
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long int ll;
@@ -25,3 +26,4 @@ int main()
 
 
 }
+
