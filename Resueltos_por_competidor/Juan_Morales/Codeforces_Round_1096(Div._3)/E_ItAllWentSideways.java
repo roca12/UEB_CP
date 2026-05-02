@@ -3,7 +3,7 @@
  * Problema: It All Went Sideways 
  * Juez online: Codeforces
  * Veredicto: Accepted
- * https://codeforces.com/contest/2227/problem/E
+ * URL: https://codeforces.com/contest/2227/problem/E
  */
 
 import java.io.BufferedReader;
