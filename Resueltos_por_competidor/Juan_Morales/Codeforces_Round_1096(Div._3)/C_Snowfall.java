@@ -1,3 +1,11 @@
+/*
+ * Autor: OtherSpanish
+ * Problema: Snowfall
+ * Juez online: Codeforces
+ * Veredicto: Accepted
+ * https://codeforces.com/contest/2227/problem/C
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
