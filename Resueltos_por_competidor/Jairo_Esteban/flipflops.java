@@ -1,5 +1,12 @@
 //2209A
 //3
+/*
+ * Autor: [kjairoo]
+ * Problema: [Flip Flops]
+ * Juez online: [Codeforce]
+ * Veredicto: Accepted
+ * URL: [https://codeforces.com/problemset/problem/2209/A
+*/
 import java.util.Arrays;
 import java.util.Scanner;
 
