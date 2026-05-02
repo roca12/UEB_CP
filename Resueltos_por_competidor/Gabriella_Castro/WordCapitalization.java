@@ -2,7 +2,7 @@
  * Autor: Gabriella Castro
  * Problema: Word Capitalization
  * Juez online: Codeforces
- * Veredicto: Accepted / Correct / Yes / Ok
+ * Veredicto: Accepted
  * URL: https://codeforces.com/problemset/problem/281/A
  */
 
