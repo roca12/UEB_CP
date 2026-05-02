@@ -7,7 +7,6 @@
  * Veredicto: Accepted
  * Url: https://atcoder.jp/contests/abc206/tasks/abc206_c
  **/ 
-
 using namespace std;
 
 int main()

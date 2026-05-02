@@ -7,7 +7,7 @@
  * Url: https://cses.fi/problemset/result/16755425/
  **/
 using namespace std;
- 
+
 int main()
 {
     long long t, x,y;
