@@ -1,5 +1,11 @@
 import java.util.Scanner;
-
+ /*
+	 * Autor: Carlos Eduardo Cobaleda Moreno
+	 * Problema: A juice in the glass
+	 * Juez online: LightOJ
+	 * Veredicto: Accepted
+	 * URL: https://lightoj.com/problem/juice-in-the-glass
+	 */
 public class Main {
 	
 	public static void main(String[] args) {
