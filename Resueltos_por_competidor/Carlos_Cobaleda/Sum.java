@@ -1,5 +1,14 @@
 import java.util.Scanner;
 
+ /*
+	 * Autor: Carlos Eduardo Cobaleda Moreno
+	 * Problema: 1742A - Sum
+	 * Juez online: CodeForces
+	 * Veredicto: Accepted
+	 * URL: https://codeforces.com/problemset/problem/1742/A
+	 */
+
+
 public class Main {
 	
 	public static void main(String[] args) {
