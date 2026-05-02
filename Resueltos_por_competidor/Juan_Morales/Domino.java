@@ -3,7 +3,7 @@
  * Problema: Dominos 2 
  * Juez online: UVA
  * Veredicto: Accepted
- * http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2513
+ * URL: http://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2513
  */
 import java.io.BufferedReader;
 import java.io.IOException;
