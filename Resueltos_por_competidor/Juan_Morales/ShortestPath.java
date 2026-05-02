@@ -1,3 +1,12 @@
+/*
+ * Autor: OtherSpanish
+ * Problema: ShortestPath
+ * Juez online: CodeChef
+ * Veredicto: Accepted
+ * https://www.codechef.com/problems/HW3G
+ */
+
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
