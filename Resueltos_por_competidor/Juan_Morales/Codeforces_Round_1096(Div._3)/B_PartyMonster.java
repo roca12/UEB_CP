@@ -3,7 +3,7 @@
  * Problema: Party Monster 
  * Juez online: Codeforces
  * Veredicto: Accepted
- * https://codeforces.com/contest/2227/problem/B
+ * URL: https://codeforces.com/contest/2227/problem/B
  */
 
 import java.util.Scanner;
