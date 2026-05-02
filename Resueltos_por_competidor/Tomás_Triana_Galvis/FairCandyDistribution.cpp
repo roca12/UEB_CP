@@ -7,7 +7,6 @@
  * Url: https://atcoder.jp/contests/abc208/tasks/abc208_c
  **/ 
 using namespace std;
-
 int main()
 {
     long long n, k,a;

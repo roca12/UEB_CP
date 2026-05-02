@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
 /*
  * Autor: Tomás Triana Galvis
  * Problema: Count Subarrays

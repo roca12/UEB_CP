@@ -1,5 +1,4 @@
 #include <bits/stdc++.h>
-
 /*
  * Autor: Tomás Triana Galvis
  * Problema: Count Balls
