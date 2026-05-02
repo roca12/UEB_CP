@@ -3,6 +3,14 @@ import java.util.Scanner;
 //2218A
 
 //2
+
+/*
+ * Autor: [kjairoo]
+ * Problema: [The 67th Integer Problem]
+ * Juez online: [Codeforce]
+ * Veredicto: Accepted
+ * URL: [https://codeforces.com/problemset/problem/2218/A
+*/
 public class sixseveninteger {
 
     static Scanner sc = new Scanner(System.in);
