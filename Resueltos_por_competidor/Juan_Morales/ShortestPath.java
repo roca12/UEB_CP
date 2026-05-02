@@ -3,7 +3,7 @@
  * Problema: ShortestPath
  * Juez online: CodeChef
  * Veredicto: Accepted
- * https://www.codechef.com/problems/HW3G
+ * URL: https://www.codechef.com/problems/HW3G
  */
 
 
