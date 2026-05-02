@@ -1,3 +1,9 @@
+# Autor: Alejandra Carvajal
+# Problema: Subscriptions
+# Juez online: CodeChef
+# Veredicto: Accepted
+# URL: https://www.codechef.com/problems/SUBSCRIBE_
+
 import math
 
 t = int(input())
