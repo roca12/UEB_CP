@@ -1,3 +1,11 @@
+ /*
+	 * Autor: Carlos Eduardo Cobaleda Moreno
+	 * Problema: How Cow
+	 * Juez online: LightOJ
+	 * Veredicto: Accepted
+	 * URL: https://lightoj.com/problem/how-cow
+	 */
+
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long int ll;
