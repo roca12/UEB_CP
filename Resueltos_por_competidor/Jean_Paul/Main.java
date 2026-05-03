@@ -2,7 +2,7 @@
  * Autor: Jean Paul
  * Problema: A. Perfect Root
  * Juez online: Polygon 
- * Veredicto: AC
+ * Veredicto: Accepted
  * URL: https://codeforces.com/problemset/problem/2185/A
  */
 import java.util.Random;
