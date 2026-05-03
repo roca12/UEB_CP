@@ -1,3 +1,10 @@
+/**
+	 * Autor: Jean Paul
+	 * Problema: A. Square?
+	 * Juez online: Polygon 
+	 * Veredicto: Accepted
+	 * URL: https://codeforces.com/problemset/problem/2167/A
+	 */
 import java.util.Scanner;
 
 public class MainSquare {
@@ -19,12 +26,4 @@ public class MainSquare {
 			}
 		}
 	}
-	
-	/**
-	 * Autor: Jean Paul
-	 * Problema: A. Square?
-	 * Juez online: Polygon 
-	 * Veredicto: AC
-	 * URL: https://codeforces.com/problemset/problem/2167/A
-	 */
 }
