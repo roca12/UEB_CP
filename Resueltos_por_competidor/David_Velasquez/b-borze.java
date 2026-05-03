@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class Borze {
+public class Main {
 
 	static Scanner sc = new Scanner(System.in);
 
