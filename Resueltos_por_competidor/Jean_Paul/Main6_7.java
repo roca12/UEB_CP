@@ -2,7 +2,7 @@
  *  Autor: Jean Paul
  * Problema: B. The 67th 6-7 Integer Problem
  * Juez online: Polygon 
- * Veredicto: AC
+ * Veredicto: Accepted
  * URL: https://codeforces.com/problemset/problem/2218/B
  */
 import java.util.Arrays;
