@@ -13,7 +13,7 @@ import java.io.InputStreamReader;
 
 
 
-public class NumeroGalaxias {
+public class Main {
 	
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
