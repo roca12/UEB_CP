@@ -19,9 +19,9 @@ int main(){
 		cin>>b[i];
 		c[i]=a[i]-b[i];
 	}
-	sort(c.begin(), c.end();
+	sort(c.begin(), c.end());
 	ll ans = 0;
-	for(int i = 0; i<v.size();i++){
+	for(int i = 0; i<c.size();i++){
 		if(c[i]<=0) continue;
 		ll pos = lower_bound(c.begin(), c.end(), -c[i]+1)-c.begin();
 		ans+=i-pos;
