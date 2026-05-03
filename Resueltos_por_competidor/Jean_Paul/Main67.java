@@ -2,7 +2,7 @@
  *  Autor: Jean Paul
  * Problema: A. The 67th Integer Problem
  * Juez online: Polygon 
- * Veredicto: AC
+ * Veredicto: Accepted
  * URL: https://codeforces.com/problemset/problem/1999/A
  */
 import java.util.Scanner;
