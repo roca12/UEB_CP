@@ -2,7 +2,7 @@
  *  Autor: Jean Paul
  * Problema: A. Easy Problem
  * Juez online: Polygon 
- * Veredicto: AC
+ * Veredicto: Accepted
  * URL: https://codeforces.com/problemset/problem/2044/A
  */
 import java.util.Scanner;
