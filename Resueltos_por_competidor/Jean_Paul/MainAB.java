@@ -2,7 +2,7 @@
  * Autor: Jean Paul
  * Problema: A. A+B Again?
  * Juez online: Polygon 
- * Veredicto: AC
+ * Veredicto: Accepted
  * URL: https://codeforces.com/problemset/problem/2218/A
  */
 import java.util.Scanner;
