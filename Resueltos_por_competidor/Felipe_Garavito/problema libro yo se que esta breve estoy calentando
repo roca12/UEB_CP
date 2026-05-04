@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	Scanner leer = new Scanner(System.in);
+		
+		int cuadernos= leer.nextInt();
+		int Paginas= leer.nextInt();
+		
+		int lineas = Paginas*100;
+		int total1= cuadernos*lineas;
+		
+		 System.out.println(total1);
+	}
+
+}
