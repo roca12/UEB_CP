@@ -4,33 +4,34 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-
 /*
  * Autor: Juan Cabarcas 
- * Problema: 71A. Way too long words 
+ * Problema: 282A. Bit++
  * Juez online: codeforces 
  * Veredicto: Accepted
- * URL: https://codeforces.com/problemset/problem/71/A
+ * URL: https://codeforces.com/problemset/problem/282/A
  */
 
-public class Codeforces_Waytoolongwords {
+public class Codeforces_Bitplusplus {
+
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
 		int n = Integer.parseInt(br.readLine());
+		int x = 0;
+
 		for (int i = 0; i < n; i++) {
-			String wol = br.readLine();
+			String s = br.readLine();
 
-			if (wol.length() > 10) {
-				int m = wol.length() - 2;
-				char s = wol.charAt(0);
-				char e = wol.charAt(wol.length() - 1);
-
-				System.out.println("" + s + m + e);
-			} else {
-				System.out.println(wol);
+			if (s.equals("X--") || s.equals("--X")) {
+				x--;
 			}
-
+			if (s.equals("X++") || s.equals("++X")) {
+				x++;
+			}
 		}
+		System.out.println(x);
+
 	}
+
 }

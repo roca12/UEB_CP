@@ -1,0 +1,35 @@
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner leer = new Scanner(System.in);
+		int t = leer.nextInt();
+
+		while (t-- > 0) {
+			int A = leer.nextInt();
+			int B = leer.nextInt();
+			int C = leer.nextInt();
+
+			if (B > C) {
+				int max = B;
+				if (A > max) {
+					System.out.println("YES");
+				} else {
+					System.out.println("NO");
+				}
+			} else {
+				int max = C;
+				if (A > max) {
+					System.out.println("YES");
+				} else {
+					System.out.println("NO");
+
+				}
+
+			}
+		}
+
+	}
+}

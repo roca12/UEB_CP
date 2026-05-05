@@ -7,9 +7,11 @@ import java.io.InputStreamReader;
 public class Codeforces_Watermelon {
 
 	/*
-	 * Autor: Juan Cabarcas Problema: A. Watermelon Juez online: Polygon Veredicto:
-	 * N/A (el juez del ejercicio no aparece con la verificacion) URL:
-	 * https://codeforces.com/problemset/problem/4/A
+	 * Autor: Juan Cabarcas 
+	 * Problema: 4A. Watermelon 
+	 * Juez online: codeforces 
+	 * Veredicto: Accepted
+	 * URL: https://codeforces.com/problemset/problem/4/A
 	 */
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
