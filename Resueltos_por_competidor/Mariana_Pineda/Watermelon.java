@@ -4,7 +4,7 @@ public class Main {
 	/*
 	 * Autor: mariana 
 	 * Problema : Watermelon 
-	 * Juez online: codeforces 
+	 * Juez online: OmegaUp
 	 * Veredicto: Accepted 
 	 * URL: https://omegaup.com/arena/problem/Watermel/
 	 */
