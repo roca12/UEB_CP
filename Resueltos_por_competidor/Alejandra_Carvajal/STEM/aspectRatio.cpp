@@ -1,3 +1,9 @@
+/* Autor: Alejandra Carvajal
+* Problema: Aspect Ratio
+* Juez online: LightOJ
+* Veredicto: Accepted
+* URL: https://lightoj.com/problem/aspect-ratio
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
