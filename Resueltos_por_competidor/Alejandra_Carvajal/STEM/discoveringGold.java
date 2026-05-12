@@ -1,3 +1,9 @@
+/* Autor: Alejandra Carvajal
+* Problema: Discovering Gold
+* Juez online: LightOJ
+* Veredicto: Accepted
+* URL: https://lightoj.com/problem/discovering-gold
+*/
 import java.util.Scanner;
 
 class Main {
