@@ -7,28 +7,27 @@
  */
 
 #include <bits/stdc++.h>
-#include <cctype>
-#include <cstdio>
-#include <ios>
-#include <ostream>
-#define ln "\n"
-typedef long long int ll;
 using namespace std;
+
+#define ln "\n"
+#define ll long long int
+
 void init_code() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    #ifndef ONLINE_JUDGE
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+#ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
     freopen("output.txt", "w", stdout);
-    #endif 
+#endif
 }
+
 int main() {
     init_code();
-    int t; cin >> t;
-    while(t--) {
-        int n; cin >> n;
-        int a,b,c; cin >> a >> b >> c;
-        int aux = min({a,b,c});
-        cout << n-aux << ln;
+    ll t;
+    cin >> t;
+    while (t--) {
+        ll x0, y0, r;
+        cin >> x0 >> y0 >> r;
+        cout << x0 + r << " " << y0 << ln;
     }
 }
