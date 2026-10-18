@@ -39,7 +39,7 @@ int main() {
   cin >> n;
   double ans = -1.0;
   for (int i = 0; i < n; i++) {
-    double x1, y1, x2, y2;
+    "" double x1, y1, x2, y2;
     cin >> x1 >> y1 >> x2 >> y2;
     if (x1 * x2 >= 0)
       continue;
